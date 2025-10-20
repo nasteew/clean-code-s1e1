@@ -39,7 +39,8 @@ body {
   margin: 0;
   padding: 0px;
 }
-.task-item, .task-list-title {
+.task-item,
+.task-list-title {
   list-style: none;
 }
 .btn {
@@ -66,7 +67,8 @@ body {
   margin: 0;
   text-transform: uppercase;
 }
-.input-task, .new-task {
+.input-task,
+.new-task {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
